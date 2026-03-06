@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Next.js Starterkit",
-  description: "Next.js 15 + TailwindCSS v4 + shadcn/ui 스타터킷",
+  title: "Notion 가계부 대시보드",
+  description: "Notion 가계부 데이터를 웹에서 시각화하는 대시보드",
 };
 
 export default function RootLayout({

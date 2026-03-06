@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "shrimp-task-manager": {
+      "command": "node",
+      "args": ["/Users/djacob/Documents/JacobStudy/claude-code-mastery/mcp-shrimp-task-manager/dist/index.js"],
+      "env": {
+        "DATA_DIR": "./shrimp_data",
+        "TEMPLATES_USE": "ko",
+        "ENABLE_GUI": "true"
+      }
+    }
+  }
+}
